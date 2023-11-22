@@ -6,8 +6,8 @@
 // @author       Five Element Ninja (https://mastodon.social/@FiveElementNinja)
 // @match        http://localhost:3000/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=undefined.localhost
-// @downloadURL  https://gist.github.com/FiveElementNinja/-/raw/fancy-rails-web-console.user.js
-// @updateURL    https://gist.github.com/FiveElementNinja/-/raw/fancy-rails-web-console.user.js
+// @downloadURL  https://github.com/FiveElementNinja/Fancy-Rails-Web-Console/raw/main/fancy-rails-web-console.user.js
+// @updateURL    https://github.com/FiveElementNinja/Fancy-Rails-Web-Console/raw/main/fancy-rails-web-console.user.js
 // @grant        none
 // ==/UserScript==
 
