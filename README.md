@@ -3,7 +3,7 @@
 
 A userscript that enhances the [Rails Web Console](https://github.com/rails/web-console) so it can be minimized.
 
-On page load the web console is minimized down to a small button on the bottom right of the screen. Clicking it brings the console back.
+On page load the web console is minimized down to a small `>>` button on the bottom right of the screen. Clicking it brings the console back. Clicking the close `x` button on the console will minimize it again instead of removing it from the DOM.
 
 &nbsp;  
 ![GIF demonstrating Fancy Rails Web Console being minimized and restored](https://github.com/FiveElementNinja/Fancy-Rails-Web-Console/blob/7e1b3c2441304246a8c30f0a8f202ac65977f3c3/demo.gif)
@@ -21,3 +21,7 @@ Assuming you meet the requirements above, simply visit https://github.com/FiveEl
  - This hasn't been tested thoroughly across Rails projects. I built it to work with my current project. I have no idea if it'll work on yours.
  -  If you run into any issues or errors, shoot me a message me on [Mastodon](https://mastodon.social/@FiveElementNinja). I'll try to help if I can.
 - **This script is auto-updating. You should only install auto-updating scripts from sources you trust. If you are not comfortable with that, don't install this script. Alternatively, you can modify the script yourself to not be auto-updating.**
+
+&nbsp;  
+&nbsp;  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y7DO5M5)
