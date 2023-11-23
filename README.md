@@ -5,6 +5,9 @@ A userscript that enhances the [Rails Web Console](https://github.com/rails/web-
 
 On page load the web console is minimized down to a small button on the bottom right of the screen. Clicking it brings the console back.
 
+&nbsp;  
+![GIF demonstrating Fancy Rails Web Console being minimized and restored](https://github.com/FiveElementNinja/Fancy-Rails-Web-Console/blob/7e1b3c2441304246a8c30f0a8f202ac65977f3c3/demo.gif)
+
 ## Requirements
 
  - [Greasemonkey](https://www.greasespot.net), [Tampermonkey](https://www.tampermonkey.net), or [Voilentmonkey](https://violentmonkey.github.io) &mdash; Loads the userscript on localhost:3000
