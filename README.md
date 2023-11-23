@@ -1,4 +1,5 @@
 
+
 # Fancy Rails Web Console
 
 A userscript that enhances the [Rails Web Console](https://github.com/rails/web-console) so it can be minimized.
@@ -19,6 +20,7 @@ Assuming you meet the requirements above, simply visit https://github.com/FiveEl
 ## Notes
 
  - This hasn't been tested thoroughly across Rails projects. I built it to work with my current project. I have no idea if it'll work on yours.
+ - It *should* work with Turbo navigation as well.
 - **This script is auto-updating. You should only install auto-updating scripts from sources you trust. If you are not comfortable with that, don't install this script. Alternatively, you can modify the script yourself to not be auto-updating.**
 
 &nbsp;  
